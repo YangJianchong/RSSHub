@@ -118,6 +118,10 @@ pageClass: routes
 
 <Route author="kt286" example="/daxiaamu/home" path="/daxiaamu/home"/>
 
+## 華康字型故事
+
+<Route author="tpnonthealps" example="/fontstory" path="/fontstory" />
+
 ## 建宁闲谈
 
 ### 文章
@@ -189,6 +193,12 @@ pageClass: routes
 ### 最近更新
 
 <Route author="kt286" example="/meituan/tech/home" path="/meituan/tech/home"/>
+
+## 十年之约
+
+### 文章
+
+<Route author="7Wate" example="/blogs/foreverblog" path="/blogs/foreverblog" />
 
 ## 王五四文集
 
